@@ -13,7 +13,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 
-Try all combinations of I0, I1, and then with A
+Try all combinations of I0, I1, and then also with A
 
 ## External hardware
 
